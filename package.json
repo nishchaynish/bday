@@ -1,0 +1,25 @@
+{
+  "name": "bday",
+  "version": "1.0.0",
+  "description": "..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishchaynish/bday/bday.git"
+  },
+  "keywords": [
+    "Bday"
+  ],
+  "author": "nishchaynish",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/nishchaynish/bday/issues"
+  },
+  "homepage": "https://github.com/nishchaynish/bday#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
